@@ -1,5 +1,5 @@
-PYTHON-STUFF/images
-PYTHON-STUFF/NOTEBOOKS/output.avi
-PYTHON-STUFF/NOTEBOOKS/sample.png
-PYTHON-STUFF/NOTEBOOKS/back.jpg
-PYTHON-STUFF/NOTEBOOKS/haarcascade_frontalface_default.xml
+images/
+NOTEBOOKS/output.avi
+NOTEBOOKS/sample.png
+NOTEBOOKS/back.jpg
+NOTEBOOKS/haarcascade_frontalface_default.xml
